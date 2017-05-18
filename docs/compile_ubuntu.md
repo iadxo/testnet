@@ -34,4 +34,5 @@ cd testnet/
 sh install.sh
 ```
 
+
 Now you can run your node. with ```sh start.sh```
